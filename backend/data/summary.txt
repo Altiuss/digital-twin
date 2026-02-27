@@ -1,0 +1,5 @@
+I am a web developer focused on full-stack development and AI integration. My expertise includes JavaScript, React, SQL, MongoDB, Docker, and building API-driven applications.
+
+Currently, I’m focused on shipping practical projects, strengthening full-stack foundations, and developing AI agent workflows that connect tools and data in real products.
+
+My background includes hands-on experience building and deploying software in Windows/Linux environments, working with modern frontend patterns, and designing systems that can scale from prototypes to production. My goal is to build a SaaS product for auto repair and body shop job tracking, combining real industry insight with strong engineering execution.

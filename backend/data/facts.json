@@ -1,0 +1,79 @@
+{
+  "full_name": "Aigars Alutis",
+  "name": "Aigars",
+  "age": 50,
+  "location": "Berlin, Germany (12685)",
+
+  "email": "altiuss@inbox.lv",
+  "phone": "+491786206766",
+
+  "linkedin": "https://www.linkedin.com/in/aigars-alutis",
+  "github": "https://github.com/Altiuss/",
+
+  "current_role": "Web Developer (Full-Stack focus) — AI integration",
+  "headline": "Building skills in modern web tech | Eager to learn & deliver",
+
+  "skills": [
+    "HTML",
+    "CSS",
+    "SCSS/Sass",
+    "Tailwind CSS (learning)",
+    "JavaScript",
+    "TypeScript (planned/learning)",
+    "React (basics)",
+    "Node.js (basics)",
+    "REST APIs",
+    "SQL",
+    "MySQL",
+    "MongoDB",
+    "Docker",
+    "Linux",
+    "Windows",
+    "Git (basics)",
+    "Algorithms & Data Structures (basics)",
+    "Python (beginner)",
+    "AI agents / agentic workflows",
+    "OpenAI Agents SDK (familiar)",
+    "MCP (built local MCP server)",
+    "Tracing/logging basics",
+    "Gradio (basic UI)"
+  ],
+
+  "languages": [
+    { "language": "Latvian", "level": "Native" },
+    { "language": "Russian", "level": "Professional" },
+    { "language": "German", "level": "B1 (certified)" },
+    { "language": "English", "level": "Basic" }
+  ],
+
+  "education": [
+    {
+      "institution": "Tel-Ran.de GmbH (DEKRA certified)",
+      "program": "Programmierkurs: Web Development (Online)",
+      "location": "Berlin",
+      "start_date": "2022-03-01",
+      "end_date": "2023-01-05",
+      "total_units": 960,
+      "instruction_language": "English",
+      "modules": [
+        { "name": "Programming Basics", "hours": 108 },
+        { "name": "Introduction to Databases", "hours": 24 },
+        { "name": "DevOps Basics", "hours": 48 },
+        { "name": "Introduction to Quality Assurance", "hours": 24 },
+        { "name": "Introduction to User Interface Design for the Web", "hours": 36 },
+        { "name": "Web Backend Engineering (Java Programming)", "hours": 276 },
+        { "name": "General Technologies", "hours": 108 },
+        { "name": "Data Structures and Algorithms", "hours": 108 },
+        { "name": "English for IT", "hours": 12 },
+        { "name": "Project Management", "hours": 24 },
+        { "name": "Job Search Strategies and Self Presentation", "hours": 12 },
+        { "name": "Project Work", "hours": 180 }
+      ]
+    }
+  ],
+
+  "projects": [
+    { "name": "Project_Garden_Online_Shop", "type": "web app" },
+    { "name": "gartentest", "url": "https://gartentest.herokuapp.com/" }
+  ]
+}
